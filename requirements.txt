@@ -1,0 +1,4 @@
+lxml
+click
+pyyaml
+pytest
